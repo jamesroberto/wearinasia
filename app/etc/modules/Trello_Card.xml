@@ -1,0 +1,8 @@
+<config>
+    <modules>
+        <Trello_Card>
+            <active>true</active>
+            <codePool>local</codePool>
+        </Trello_Card>
+    </modules>
+</config>

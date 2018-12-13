@@ -1,0 +1,19 @@
+<config>    
+    <modules>
+        <Trello_Card>
+            <version>0.1.0</version>
+        </Trello_Card>
+    </modules>
+
+    <frontend>
+        <routers>
+            <card>
+                <use>standard</use>
+                <args>
+                    <module>Trello_Card</module>
+                    <frontName>card</frontName>
+                </args>
+            </card>
+        </routers>  
+    </frontend>
+</config>
